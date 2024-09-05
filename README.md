@@ -1,7 +1,7 @@
 # Oumaima-BenElhajAli / README.md
 
-- 🌟 I'm currently working on [Your Project Name] (e.g., "MultiCloud Application With Load Balancer")
-- 📫 How to reach me: oumaima.benelhajali@example.com (replace with your actual email)
+- 🌟 I'm currently working Spring boot angular projects
+- 📫 How to reach me:oumaima.benelhajali@etudiant-fst.utm.tn
 
 ## Languages and Tools:
 
