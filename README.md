@@ -1,7 +1,7 @@
 # Oumaima-BenElhajAli / README.md
 
 - 🌟 I'm currently working Spring boot angular projects
-- 📫 How to reach me:oumaima.benelhajali@etudiant-fst.utm.tn
+- 📫 How to reach me: oumaima.benelhajali@etudiant-fst.utm.tn
 
 ## Languages and Tools:
 
